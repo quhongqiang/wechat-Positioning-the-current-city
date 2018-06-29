@@ -1,0 +1,6 @@
+<view class="retailStore">
+   <view class="cnaps  borderBottom">
+    <text>所在城市：</text>
+    <text class='m-bbt'>{{province}} {{city}}</text>
+  </view>
+</view>

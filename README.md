@@ -20,3 +20,5 @@ npm run build --report
 ```
 # 图片
 ![Image text](https://github.com/quhongqiang/-/blob/master/img/32.png)
+# 图片
+![ABC](http://www.baidu.com/img/bdlogo.gif)

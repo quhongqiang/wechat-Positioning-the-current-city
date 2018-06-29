@@ -16,5 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+# 图片
 ![Image text](https://github.com/quhongqiang/-/blob/master/img/32.png)
 ```
